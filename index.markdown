@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-list_title: ' '
+
 ---
 
 __The Project__
@@ -24,3 +24,7 @@ Create Caribbean interns enrolled in HIS115 for the academic year 2021-22 will c
 [2]: https://www.caribbeanliteraryheritage.com/ "Caribbean Literary Heritage"
 [3]: http://caribbeandigitalnyc.net/2020/ "TCDVII"
 [4]: https://caribbeandigitalnyc.net/caridischo/ "Directory of Caribbean Digital Scholarship"
+---
+----
+------
+-------
