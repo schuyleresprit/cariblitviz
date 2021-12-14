@@ -18,7 +18,7 @@ __The Assignment__
 
 Create Caribbean interns enrolled in HIS115 for the academic year 2021-22 will contribute to this project by working to develop a multimedia resource documenting Caribbean literary history, particularly with a searchable, annotated, and mapped timeline of Caribbean literature from 1800 – the present.
 
-[1]https://sameboats.org/ "In the Same Boats"
-[2]https://www.caribbeanliteraryheritage.com/ "Caribbean Literary Heritage"
-[3]http://caribbeandigitalnyc.net/2020/ "TCDVII"
-[4]https://caribbeandigitalnyc.net/caridischo/ "Directory of Caribbean Digital Scholarship"
+[1]: https://sameboats.org/ "In the Same Boats"
+[2]: https://www.caribbeanliteraryheritage.com/ "Caribbean Literary Heritage"
+[3]: http://caribbeandigitalnyc.net/2020/ "TCDVII"
+[4]: https://caribbeandigitalnyc.net/caridischo/ "Directory of Caribbean Digital Scholarship"
