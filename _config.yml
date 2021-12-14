@@ -22,7 +22,7 @@ title: Visualizing Caribbean Literature
 email: createcarib@gmail.com
 description: A digital humanities project by Create Caribbean Research Institute
 baseurl: "/cariblitviz/" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "schuyleresprit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: createcaribbean
 github_username:  createcaribbean
 
