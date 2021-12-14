@@ -1,7 +1,7 @@
 ---
-layout: home
+layout: page
 title: About
-permalink: /
+permalink: /about/
 ---
 
 __The Project__
