@@ -13,7 +13,7 @@ baseurl: "/cariblitviz/" # the subpath of your site, e.g. /blog
 url: "schuyleresprit.github.io" # the base hostname & protocol for your site
 twitter_username: createcaribbean
 github_username:  createcaribbean
-paginate: 5
+paginate: 
 theme-dark: false #Set to true to change to dark website theme
 
 plugins: [jekyll-paginate, kramdown]
