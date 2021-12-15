@@ -25,7 +25,6 @@ baseurl: "/cariblitviz/" # the subpath of your site, e.g. /blog
 url: "schuyleresprit.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: createcaribbean
 github_username:  createcaribbean
-.site-header: "/assets/CreateLogo.png"
 
 # Build settings
 theme: minima
