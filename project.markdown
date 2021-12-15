@@ -43,32 +43,49 @@ Search by date:
 Search by language:
 ----------
 *Anglophone
+
 *Francophone
+
 *Hispanophone
+
 *Lusophone
 
 
 Search by genre:
 ----------
 *Fiction (Novel/Novella)
+
 *Fiction (Short Story Collection)
+
 *Poetry Collection
+
 *Drama
+
 *Short Story
+
 *Poem
+
 *Essay
+
 *Nonfiction Book
+
 *Biography
+
 *Autobiography/Memoir
 
 
 3)	The Analysis and Visualizations
 ----------
 *a.	Texts
+
 *b.	Writers
+
 *c.	Readers
+
 *d.	Scenes
+
 *e.	Relations
+
 *f. Occasions for Reading
 
 
@@ -78,10 +95,12 @@ Search by genre:
 
 
 What comes next?
+---------
 
 Then we play. Once we have amassed the big, not-so-smart data for the project, we clean it up and look for patterns based on the project’s goals (which we will refine and revise as we go). Then we start making decisions about DH tools and methods. We may begin something that fails and must start over. That is okay. The goal is to apply the experimental, collaborative and persistent spirit to have the best critical engagement with the data that we can.
 
 
 The gag is…
+--------
 
 None of us has any idea what this project will or should look like when it’s done. That’s the best of DH.
