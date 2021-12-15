@@ -7,7 +7,7 @@ permalink: /process/
 The Assignment
 
 
-Create Caribbean interns enrolled in __HIS115__ for the academic year 2021-22 will contribute to this project by working to develop a multimedia resource documenting Caribbean literary history, particularly with a searchable, annotated, and mapped timeline of Caribbean literature from 1800 – the present.
+Create Caribbean interns enrolled in __HIS115__ for the academic year 2021-22 will contribute to this project by working to develop a multimedia resource documenting Caribbean literary history with a searchable, annotated, and mapped timeline of Caribbean literature from 1800 – the present.
 
 We will begin by asking and answering these questions within the framework of some broad categories:
 

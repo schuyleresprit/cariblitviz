@@ -69,7 +69,7 @@ Search by genre:
 *c.	Readers
 *d.	Scenes
 *e.	Relations
-*f. 	Occasions for Reading
+*f. Occasions for Reading
 
 
 4)	Find links to original editions and cover art.
