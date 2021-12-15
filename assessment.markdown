@@ -28,5 +28,5 @@ This will be a short essay reflecting on your process of project development inc
 4)	Presentation: 100 points
 
 At the end of the year, Create Caribbean will host a symposium to launch the project and to celebrate the work of the internship program for the academic year. Each of you will present on your contributions to the collective and on your specific projects.
-
+ 
 Total portion of final grade: 550 points/55% of final grade
