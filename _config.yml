@@ -28,8 +28,8 @@ github_username:  createcaribbean
 header_pages:
   - assessment.markdown
   - process.markdown
-  -project.markdown
-  
+  - project.markdown
+
 # Build settings
 theme: minima
 plugins:
