@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Posts"
 permalink: /posts/
 ---
-
-Link to
