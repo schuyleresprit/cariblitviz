@@ -32,9 +32,9 @@ header_pages:
   - posts.markdown
 
 collections:
-  my_collection:
+  jekyll:
     output: true
-    permalink: /:cariblitviz/:jekyll
+    permalink: /:cariblitviz/:posts
 
 # Build settings
 theme: minima
