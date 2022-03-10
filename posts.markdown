@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: postdefault
 title: "Posts"
 permalink: /posts/
 ---
