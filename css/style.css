@@ -45,7 +45,7 @@
   /* for work section and member section*/ }
 
 .full.light {
-  color: ##C8E2E8; }
+  color: #E7CB44; }
 
 .full.brown {
   background: #AB8860; }
@@ -324,7 +324,7 @@ body {
   line-height: 1;
   padding-left: 15px; }
   .title-area h1 a {
-    color: #E7CB44;
+    color: #333;
     font-size: 18px;
     font-family: "josefin sans";
     text-transform: uppercase;
