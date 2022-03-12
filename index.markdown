@@ -5,7 +5,6 @@
 layout: home
 
 ---
-
 __The Project__
 
 

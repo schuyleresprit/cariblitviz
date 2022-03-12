@@ -29,6 +29,9 @@ header_pages:
   - assessment.markdown
   - process.markdown
   - project.markdown
+  - posts.markdown
+
+
 
 # Build settings
 theme: minima
