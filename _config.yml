@@ -30,8 +30,8 @@ header_pages:
   - process.markdown
   - project.markdown
   - posts.markdown
-  - name: data.markdown
-    url: https://github.com
+  - data.markdown
+header_url: https://github.com
 
 
 
