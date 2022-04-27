@@ -1,5 +1,5 @@
 ---
 layout: externallink
-title: Data"
+title: Data
 permalink: /data/
 ---
