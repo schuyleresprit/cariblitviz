@@ -150,7 +150,7 @@ hr {
   .section-title h2 {
     margin-bottom: 0; }
   .section-title p {
-    color: #999;
+    color: #216b4d;
     font-size: 24px;
     font-weight: 300;
     margin-top: 5px; }
@@ -324,7 +324,7 @@ body {
   line-height: 1;
   padding-left: 15px; }
   .title-area h1 a {
-    color: #c6ecc6;
+    color: #216b4d;
     font-size: 18px;
     font-family: "josefin sans";
     text-transform: uppercase;
